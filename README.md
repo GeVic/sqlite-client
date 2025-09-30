@@ -1,4 +1,4 @@
-# SQLite Scratch
+# SQLite Client
 
 A minimal, read-only SQLite database reader written in TypeScript for the CodeCrafters "Build your own SQLite" challenge. It parses the SQLite file format directly (pages, headers, varints, B-tree structures) and executes a small subset of SQL.
 
